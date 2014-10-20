@@ -1,4 +1,7 @@
 package Catmandu::Fix::pod_tag;
+
+our $VERSION = "0.01";
+
 use Catmandu::Sane;
 use Moo;
 use Catmandu::Fix::Has;
@@ -134,7 +137,7 @@ Nicolas Franck C<< <nicolas.franck at ugent.be> >>
 
 =head1 SEE ALSO
 
-L<Catmandu::Fix>
+L<Catmandu::Fix>,L<Pod::Tree>
 
 =cut
 

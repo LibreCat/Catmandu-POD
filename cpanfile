@@ -9,4 +9,6 @@ requires 'File::Spec','0';
 on 'test', sub {
     requires 'Test::Exception','0';
     requires 'Test::More','0';
+    requires 'File::Basename','0';
+    requires 'File::Spec','0';
 };
