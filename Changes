@@ -1,0 +1,3 @@
+0.01	2014-10-20
+	- added Catmandu::Fix::pod_tag
+	- added Catmandu::Cmd::syntax_info
